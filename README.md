@@ -32,5 +32,5 @@ The application might not be compatible with all platforms.
 ### License
 This project is licensed under the MIT License. For more information, see the LICENSE file.
 
-### Note: All rights reserved to Nurkhan Masimzada. The listed packages can be installed using the provided command.
+#### Note: All rights reserved to Nurkhan Masimzada. The listed packages can be installed using the provided command.
 
