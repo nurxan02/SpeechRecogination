@@ -29,8 +29,9 @@ Press the "Play" button to listen to the text in speech form.
 Speech recognition functionality may require an internet connection.
 Use speakers or headphones to receive audio output.
 The application might not be compatible with all platforms.
+The listed packages can be installed using the provided command.
 ### License
 This project is licensed under the MIT License. For more information, see the LICENSE file.
 
-#### Note: All rights reserved to Nurkhan Masimzada. The listed packages can be installed using the provided command.
+<b>Note: </b>All rights reserved to <b>Nurkhan Masimzada.</b> 
 
